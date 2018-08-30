@@ -1,0 +1,24 @@
+.transparente{
+  background-color:rgba(0, 0, 0, 0.8);
+}
+
+body{
+  background: url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.titulo{
+  color: white;
+}
+
+.fecha-de-consulta{
+  font-size: 10px;
+  text-align: right;
+}
+
+.perfil{
+  max-width: 40px;
+  border-radius: 100%
+}
